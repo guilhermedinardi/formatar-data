@@ -1,5 +1,6 @@
 # Calculadora IMC 
 Aplicação para aprimorar os estudos em Javascript
+<img src="https://github.com/guilhermedinardi/formatar-data/blob/main/assets/data.png">
 
 # Tecnologias Usadas
 
