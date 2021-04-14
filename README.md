@@ -11,3 +11,5 @@ Aplicação para aprimorar os estudos em Javascript
 
 # Sobre a Calculadora IMC.
 O objetivo da Calculadora é mostrar a taxa IMC do usuário.
+
+https://guilhermedinardi.github.io/formatar-data/
